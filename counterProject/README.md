@@ -1,3 +1,8 @@
+#Counter Project
+
+- Counter Project is build to learn react concepts like hooks where we are used useState()
+- useState() is helpfull to change all value where same variable are injected.
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
